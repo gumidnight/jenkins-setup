@@ -41,6 +41,7 @@ sudo apt install jenkins -y
 
 sudo systemctl start jenkins
 sudo systemctl enable jenkins
+
 6. Adjust Firewall (if using UFW)
 
 sudo ufw allow 8080
